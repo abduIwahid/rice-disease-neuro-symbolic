@@ -61,7 +61,7 @@ for the source, licence, expected layout, and download instructions, or use
 | Path | Contents |
 |---|---|
 | `brain/` | Full project brain: PRD, architecture, build plan, paper-selection gate, decisions, risks, team, submission and testing notes |
-| `paper/` | The implemented paper (PDF) plus the two shortlist alternatives, the screening shortlist and the comparison sheet |
+| `paper/` | The implemented paper — PDF, citation and source note |
 | `docs/` | The one-page project proposal |
 | `datasets/` | Dataset guide (source, classes, licence, layout, download steps) — no images in git |
 | `scripts/` | Helper scripts, starting with the dataset downloader |
